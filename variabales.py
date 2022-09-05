@@ -31,4 +31,12 @@ print(x)
 print(y)
 print(z)
 
+#Output variables
+#The python print() function is often used to output variables
+X = "python is awesome"
+print(X)
 
+#In the print() function ,you output multiple variables, separated by a comma:
+X = "Python "
+Y = "is "
+Z = "awesome "
